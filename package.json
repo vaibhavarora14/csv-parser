@@ -1,0 +1,21 @@
+{
+  "name": "csv-parser",
+  "version": "0.0.0",
+  "description": "CSV parser for NodeJS",
+  "scripts": {
+    "test": "yarn run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varora1406/csv-parser.git"
+  },
+  "author": "Vaibhav Arora <varora1406@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varora1406/csv-parser/issues"
+  },
+  "homepage": "https://github.com/varora1406/csv-parser#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}

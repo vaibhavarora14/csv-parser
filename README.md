@@ -1,6 +1,6 @@
-# -- Project Name --
+# CSV Parser
 
--- Description --
+Parse CSV into JSON and vice versa in NodeJS
 
 ## Installation
 
@@ -12,4 +12,4 @@
 
 ## License
 
--- License details --
+MIT. Checkout [license file](./LICENSE) for details
